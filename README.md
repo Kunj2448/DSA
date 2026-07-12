@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kunj2448/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Kunj2448/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kunj2448/DSA/tree/master/0018-4sum) |
 | [0287-find-the-duplicate-number](https://github.com/Kunj2448/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kunj2448/DSA/tree/master/0001-two-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunj2448/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
