@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Kunj2448/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Kunj2448/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kunj2448/DSA/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Kunj2448/DSA/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
