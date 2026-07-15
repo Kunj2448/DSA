@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kunj2448/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Kunj2448/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunj2448/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Kunj2448/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kunj2448/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kunj2448/DSA/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Kunj2448/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kunj2448/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kunj2448/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Kunj2448/DSA/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Kunj2448/DSA/tree/master/0066-plus-one) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunj2448/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
