@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kunj2448/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kunj2448/DSA/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Kunj2448/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Kunj2448/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunj2448/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kunj2448/DSA/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Kunj2448/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunj2448/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Kunj2448/DSA/tree/master/0058-length-of-last-word) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Kunj2448/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
