@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kunj2448/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kunj2448/DSA/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/Kunj2448/DSA/tree/master/0371-sum-of-two-integers) |
+| [0509-fibonacci-number](https://github.com/Kunj2448/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunj2448/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Kunj2448/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kunj2448/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kunj2448/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kunj2448/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
