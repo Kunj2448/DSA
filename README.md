@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kunj2448/DSA/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Kunj2448/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunj2448/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Kunj2448/DSA/tree/master/0704-binary-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/Kunj2448/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kunj2448/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Kunj2448/DSA/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Kunj2448/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Kunj2448/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
