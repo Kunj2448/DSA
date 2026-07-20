@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kunj2448/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kunj2448/DSA/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Kunj2448/DSA/tree/master/0179-largest-number) |
 ## Prefix Sum
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Kunj2448/DSA/tree/master/0179-largest-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kunj2448/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
