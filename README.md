@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kunj2448/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Kunj2448/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kunj2448/DSA/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Kunj2448/DSA/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kunj2448/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunj2448/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Kunj2448/DSA/tree/master/0704-binary-search) |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Kunj2448/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Kunj2448/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kunj2448/DSA/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Kunj2448/DSA/tree/master/0179-largest-number) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Kunj2448/DSA/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/Kunj2448/DSA/tree/master/0179-largest-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kunj2448/DSA/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kunj2448/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
