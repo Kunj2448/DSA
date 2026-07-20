@@ -1,17 +1,20 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<int> st;
+       int n = s.size();
+        if(n % 2) return false;
+        vector<char> st(n);     
+        int top = -1;
         for(char c : s) {
-        if(c=='(' || c=='{' || c=='[') st.push(c);
-        else {
-            if(st.empty()) return false;
-            char top = st.top(); st.pop();
-            if((c==')' && top!='(') ||
-               (c=='}' && top!='{') ||
-               (c==']' && top!='[')) return false;
+            if(c=='(' || c=='{' || c=='[') st[++top] = c;
+            else {
+                if(top < 0) return false;
+                char open = st[top--];
+                if((c==')' && open!='(') ||
+                (c=='}' && open!='{') ||
+                (c==']' && open!='[')) return false;
+            }
         }
-    }
-    return st.empty();
+        return top == -1;
     }
 };
